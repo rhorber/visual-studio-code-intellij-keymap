@@ -51,7 +51,7 @@
   },
   {
     "key": "ctrl+l",
-    "command": "workbench.action.gotoLine",
+    "command": "editor.action.deleteLines",
     "when": "editorTextFocus"
   },
   {
