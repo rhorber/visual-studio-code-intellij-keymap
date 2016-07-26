@@ -115,11 +115,11 @@
   },
   {
     "key": "alt+left",
-    "command": "workbench.action.focusLeftEditor"
+    "command": "workbench.action.openPreviousRecentlyUsedEditorInGroup"
   },
   {
     "key": "alt+right",
-    "command": "workbench.action.focusRightEditor"
+    "command": "workbench.action.openNextRecentlyUsedEditorInGroup"
   },
   {
     "key": "ctrl+shift+n",
